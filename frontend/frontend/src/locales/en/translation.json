@@ -1,0 +1,35 @@
+{
+  "app_title": "Disaster Management Dashboard",
+  "last_updated": "Last Updated",
+  "refresh": "Refresh",
+  "check_weather": "Check weather",
+  "home": "Home",
+  "emergency_contacts": "Emergency Contacts",
+  "call": "Call",
+  "preparedness_checklist": "Preparedness Checklist",
+  "risk_low": "Low",
+  "risk_medium": "Medium",
+  "risk_high": "High",
+  "alert_default": "New alert",
+  "language": "Language",
+  "checklist_low": [
+    "Check local weather updates",
+    "Keep a basic first aid kit ready",
+    "Ensure important documents are safe"
+  ],
+  "checklist_medium": [
+    "Prepare emergency contact list",
+    "Store enough drinking water for 3 days",
+    "Charge all mobile devices"
+  ],
+  "checklist_high": [
+    "Evacuate to a safe shelter",
+    "Carry emergency food supplies",
+    "Secure pets and valuables"
+  ],
+  "alerts_list": [
+    "Keep emergency kit ready",
+    "Stay updated with weather alerts",
+    "Follow official evacuation instructions"
+  ]
+}

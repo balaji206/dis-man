@@ -1,0 +1,6 @@
+[
+  { "name": "Police", "phone": "100" },
+  { "name": "Fire", "phone": "101" },
+  { "name": "Ambulance", "phone": "102" },
+  { "name": "Disaster Helpline", "phone": "1078" }
+]

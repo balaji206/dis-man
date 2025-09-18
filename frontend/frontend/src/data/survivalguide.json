@@ -1,0 +1,17 @@
+{
+  "Flood": [
+    "Move to higher ground immediately.",
+    "Avoid walking or driving through flood waters.",
+    "Listen to emergency broadcasts."
+  ],
+  "Earthquake": [
+    "Drop, Cover, and Hold On.",
+    "Stay indoors until shaking stops.",
+    "Move away from windows."
+  ],
+  "Fire": [
+    "Evacuate immediately if instructed.",
+    "Use stairs, not elevators.",
+    "Stay low under smoke."
+  ]
+}
